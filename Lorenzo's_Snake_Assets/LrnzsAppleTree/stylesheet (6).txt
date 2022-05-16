@@ -1,0 +1,65 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-LnzsApple_Tree00 {
+    width: 32px;
+    height: 48px;
+    background-position: -5px -5px;
+}
+
+.sprite-LnzsApple_Tree01 {
+    width: 32px;
+    height: 48px;
+    background-position: -47px -5px;
+}
+
+.sprite-LnzsApple_Tree02 {
+    width: 32px;
+    height: 48px;
+    background-position: -89px -5px;
+}
+
+.sprite-LnzsApple_Tree03 {
+    width: 32px;
+    height: 48px;
+    background-position: -5px -63px;
+}
+
+.sprite-github {
+    width: 30px;
+    height: 30px;
+    background-position: -47px -63px;
+}
+
+.sprite-gmail {
+    width: 30px;
+    height: 30px;
+    background-position: -87px -63px;
+}
+
+.sprite-linkedin {
+    width: 30px;
+    height: 30px;
+    background-position: -47px -103px;
+}
+
+.sprite-stackoverflow {
+    width: 30px;
+    height: 30px;
+    background-position: -87px -103px;
+}
+
+.sprite-tumblr {
+    width: 30px;
+    height: 30px;
+    background-position: -131px -5px;
+}
+
+.sprite-twitter {
+    width: 30px;
+    height: 30px;
+    background-position: -131px -45px;
+}
